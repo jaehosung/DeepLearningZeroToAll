@@ -1,6 +1,6 @@
 # Lab 9 XOR-back_prop
 import tensorflow as tf
-import numpy as np
+import numpy as np1
 
 tf.set_random_seed(777)  # for reproducibility
 learning_rate = 0.1
