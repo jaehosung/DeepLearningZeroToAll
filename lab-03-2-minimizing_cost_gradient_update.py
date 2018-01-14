@@ -1,4 +1,4 @@
-# Lab 3 Minimizing Cost
+# Lab 3 Minimizing Cost git test
 import tensorflow as tf
 tf.set_random_seed(777)  # for reproducibility
 
